@@ -10,13 +10,19 @@
 		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="../private/HTTP_GET_Test_RemoveOneUserData.vi"/>
 		<Item Name="IDCheck.vi" Type="VI" URL="../private/IDCheck.vi"/>
 	</Item>
+	<Item Name="GenISN.vi" Type="VI" URL="../GenISN.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 	<Item Name="SendComands.vi" Type="VI" URL="../SendComands.vi"/>
+	<Item Name="SetAMDSSC.vi" Type="VI" URL="../SetAMDSSC.vi"/>
+	<Item Name="SetAMONOFF.vi" Type="VI" URL="../SetAMONOFF.vi"/>
+	<Item Name="SetAMParams.vi" Type="VI" URL="../SetAMParams.vi"/>
 	<Item Name="SetBasicWaveform.vi" Type="VI" URL="../SetBasicWaveform.vi"/>
+	<Item Name="SetFMONOFF.vi" Type="VI" URL="../SetFMONOFF.vi"/>
+	<Item Name="SetFMParams.vi" Type="VI" URL="../SetFMParams.vi"/>
 	<Item Name="SetHarmAmp.vi" Type="VI" URL="../SetHarmAmp.vi"/>
-	<Item Name="SetHarmONOFF.vi" Type="VI" URL="../SetHarmONOFF.vi"/>
 	<Item Name="SetHarmOrderType.vi" Type="VI" URL="../SetHarmOrderType.vi"/>
 	<Item Name="SetHarmPhase.vi" Type="VI" URL="../SetHarmPhase.vi"/>
 	<Item Name="SetOutputONOFF.vi" Type="VI" URL="../SetOutputONOFF.vi"/>
 	<Item Name="SetPulseDutycycle.vi" Type="VI" URL="../SetPulseDutycycle.vi"/>
+	<Item Name="SetWait.vi" Type="VI" URL="../SetWait.vi"/>
 </Library>
